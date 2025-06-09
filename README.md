@@ -1,6 +1,6 @@
 # 🧠 Monocular 3D Scene Reconstruction from Video
 
-Transform any single-camera video into a **VR-ready 3D scene** using MiDaS, COLMAP, and Open3D.
+> Transform any single-camera video into a **VR-ready 3D scene** using MiDaS, COLMAP, and Open3D.
 
 ---
 
