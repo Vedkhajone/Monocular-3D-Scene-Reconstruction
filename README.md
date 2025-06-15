@@ -40,7 +40,7 @@ This project reconstructs a **3D model** from a monocular video by predicting de
 - ├── mesh_output/ # Final mesh (ply/glb)
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run (Update the file location in code based on your folder)
 
 1. **Extract Frames**
 ```bash
@@ -61,7 +61,11 @@ python
 ```bash
 python integrate_tsdf.py
 ```
-5.**(Optional) Convert .ply to .glb**
+5.**To view th ply generated run viewply.py**
+```bash
+python viewply.py
+```
+6.**(Optional) Convert .ply to .glb**
 ```bash
 Use blender or unity to import .pyl file and export it to .glb
 ```
