@@ -73,7 +73,7 @@ pip install requirements.txt
 - COLMAP
 - MiDaS requirements: torch, timm, cv2, etc.
 
-##🙌 Author
+## 🙌 Author
 Made with 💻 + 🧠 by Ved Khajone
 > _Turning ordinary videos into immersive 3D scenes_
 
